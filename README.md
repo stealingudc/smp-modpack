@@ -34,3 +34,6 @@ TBD.
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3\.0\.12]
 - [Sodium](https://modrinth.com/mod/AANobbMI) [0\.6\.13\+mc1\.21\.1]
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) [2\.3\.0]
+- [Xaero Train Map](https://modrinth.com/mod/Ov2r3aVY) [1\.0\.0]
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.10]
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.11]
