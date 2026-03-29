@@ -3,7 +3,13 @@ The Minecraft modpack for my friends' SMP.
 This is mainly a Create Mod-focused pack, with some nice building options. Very tiny.
 
 ## Installation
-TBD.
+Head to [releases](https://github.com/stealingudc/smp-modpack/releases) and download the .zip file corresponding to your launcher:
+
+- `-multimc.zip` (MultiMC/Prism Launcher)
+- `-modrinth.zip` (Modrinth Launcher)
+- `-curseforge.zip` (duh)
+
+Import the .zip file using your preferred launcher's import feature.
 
 ### Datapack List
 TBD.
