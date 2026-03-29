@@ -3,6 +3,7 @@ The Minecraft modpack for my friends' SMP.
 This is mainly a Create Mod-focused pack, with some nice building options. Very tiny.
 
 ## Installation
+### Client
 Head to [releases](https://github.com/stealingudc/smp-modpack/releases) and download the .zip file corresponding to your launcher:
 
 - `-multimc.zip` (MultiMC/Prism Launcher)
@@ -10,6 +11,15 @@ Head to [releases](https://github.com/stealingudc/smp-modpack/releases) and down
 - `-curseforge.zip` (duh)
 
 Import the .zip file using your preferred launcher's import feature.
+
+### Server
+This assumes you're using Kinetic-Hosting. Good hardware is hard to come across nowadays.
+
+Download the `-curseforge` export from [releases](https://github.com/stealingudc/smp-modpack/releases) and import it using the Modpack Importer.
+
+Datapacks must be uploaded manually. 
+
+Change the port in minecraft/config/create-track-map.json to an unused, open port on your server.
 
 ### Datapack List
 TBD.
